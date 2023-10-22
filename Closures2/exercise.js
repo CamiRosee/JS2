@@ -8,3 +8,5 @@ function printName (){
 }
 
 console.log(printName());
+
+//también me sale un undefined que no se a que se debe
